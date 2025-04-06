@@ -39,6 +39,6 @@ I just got a refresher of developing an application using basic html and css.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jeremiahDelizo)
+- Frontend Mentor - [@jeremiahDelizo](https://www.frontendmentor.io/profile/jeremiahDelizo)
 
 
